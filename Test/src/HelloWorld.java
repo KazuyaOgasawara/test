@@ -6,6 +6,7 @@ import java.util.function.Consumer;
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello World");
+    /*
     List<String> cities = new ArrayList<String>();
     cities.add("Kyoto");
     cities.add("Oosaka");
@@ -32,5 +33,6 @@ public class HelloWorld {
     cities.forEach((final String city) -> System.out.println(city));
 
     System.out.println("Hi, what's up?");
+    */
   }
 }
