@@ -1,2 +1,0 @@
-abcdefghij
-branch 'b1' modify
