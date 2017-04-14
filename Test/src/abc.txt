@@ -1,2 +1,3 @@
 abcdefghij
 branch 'b1' modify
+after deleting files...
